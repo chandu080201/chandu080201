@@ -11,7 +11,7 @@
 - 🎓 **B.Tech in Chemical Engineering** from **NIT Calicut** (2020-2024)
 - 💡 Passionate about **Machine Learning, AI, and Generative AI**
 - 🚀 Currently an **AI Intern at Infosys** (Sept 2024 - Dec 2024)
-- 📊 Strong in **Data Science, NLP, Deep Learning, and Statistical Analysis**
+- 📊 Strong in **Data Science, NLP, Deep Learning, Web Development and Statistical Analysis**
 - 🌱 Always learning new technologies and improving my skills  
 - 💬 Ask me about **ML, AI, SQL, Python, and Data Visualization, Flask, Data science, Prompt engineering**
 - 📫 How to reach me: **[Email](mailto:chanduneelam08@gmail.com)**
