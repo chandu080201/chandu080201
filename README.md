@@ -43,7 +43,7 @@
 - Developed **ML models** with **XGBoost**, achieving **97.5% accuracy**
 - Submitted results in a research paper to **Petroleum Science and Technology (Taylor & Francis)**
 
-#### 🔹 [MasterQuery App - Generative AI for SQL Automation](https://github.com/chandu080201/masterquery-app)
+#### 🔹 [MasterQuery App - Generative AI for SQL Automation](https://github.com/chandu080201/QueryApp)
 - Built a **LLM-powered app** using **Google Gemini Pro & LangChain**
 - Converted **natural language to SQL** queries with **96% accuracy**
 
